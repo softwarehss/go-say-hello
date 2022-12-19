@@ -1,6 +1,6 @@
 package go_say_hello
 
 func SayHello() string {
-	greetings := "Hello"
+	greetings := "Hello Nama Anda"
 	return greetings
 }
